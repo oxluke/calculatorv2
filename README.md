@@ -1,10 +1,10 @@
-# CalculatorV2 \n
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# CalculatorV2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n
 A calculator made in C++ using the terminal to operate.
 
 
-# Features: \n
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# Features:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n
 Addition: Use the "+" operator to provide the sum of two numbers.
 
 Subtraction: Use the "-" operator to provide the difference of two numbers.
