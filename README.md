@@ -1,14 +1,14 @@
 # CalculatorV2
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-A calculator made in C++ using the terminal to operate.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n
+A calculator made in C++ using the terminal to operate. \n \n \n
 
 
-# Features:
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Addition: Use the "+" operator to provide the sum of two numbers.
+# Features: \n
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n
+Addition: Use the "+" operator to provide the sum of two numbers. \n \n
 
-Subtraction: Use the "-" operator to provide the difference of two numbers.
+Subtraction: Use the "-" operator to provide the difference of two numbers. \n \n
 
-Multiplication: Use the "*" operator to provide the product of two numbers.
+Multiplication: Use the "*" operator to provide the product of two numbers. \n \n
 
-Divitation: Use the "/" operator to provide the quotient of two numbers.
+Dividation: Use the "/" operator to provide the quotient of two numbers. \n \n
