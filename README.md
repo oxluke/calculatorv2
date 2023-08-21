@@ -1,10 +1,12 @@
 # CalculatorV2
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n
-A calculator made in C++ using the terminal to operate.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= <br />
+A calculator made in C++ using the terminal (command prompt/CMD) to operate.
+
+Source code is not required, but can be used by developers (or just interested people).
 
 
 # Features:
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= <br />
 Addition: Use the "+" operator to provide the sum of two numbers.
 
 Subtraction: Use the "-" operator to provide the difference of two numbers.
